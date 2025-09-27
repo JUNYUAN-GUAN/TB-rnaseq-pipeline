@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "TB RNA-seq Analysis Pipeline (Imperial NHLI)"
+authors:
+  - family-names: Guan
+    given-names: Junyuan
+    affiliation: National Heart & Lung Institute, Imperial College London
+date-released: 2024-08-31
+version: "0.1.0"
+identifiers:
+  - type: url
+    value: "https://github.com/JUNYUAN-GUAN/TB-rnaseq-pipeline"
+keywords: [RNA-seq, DESeq2, PCA, GSEA, reproducible research]
