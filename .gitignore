@@ -1,7 +1,6 @@
-.DS_Store
 results/
-*.html
+.DS_Store
 .Rhistory
 .RData
 .Rproj.user/
-renv/library/
+*.log
