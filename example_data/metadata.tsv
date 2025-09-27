@@ -1,0 +1,7 @@
+sample_id	group	exposure_duration
+s1	control	5
+s2	control	6
+s3	resister	12
+s4	resister	15
+s5	converter	9
+s6	converter	10
